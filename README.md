@@ -10,9 +10,7 @@ Lollypop is a new GNOME music playing application.
 
 - For packagers: You need to provide https://github.com/gnumdk/lollypop-portal
 
-- FAQ: https://github.com/gnumdk/lollypop/wiki
-
-For translators: https://www.transifex.com/projects/p/lollypop/
+- For translators: https://www.transifex.com/projects/p/lollypop/
 
 It provides:
 
@@ -35,7 +33,7 @@ It provides:
 
 ## Depends on
 
-- `gtk3 >= 3.14`
+- `gtk3 >= 3.20`
 - `gobject-introspection`
 - `appstream-glib`
 - `gir1.2-gstreamer-1.0 (Debian)`
